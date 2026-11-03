@@ -1,0 +1,32 @@
+[project]
+name = "pianoval-server"
+version = "0.1.0"
+description = "WebSocket PCM ingestion and piano onset transcription"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "fastapi>=0.115,<1",
+  "uvicorn[standard]>=0.34,<1",
+  "numpy>=1.26,<3",
+  "torch>=2.6,<3",
+  "torchaudio>=2.6,<3",
+  "soxr>=0.5,<2",
+  "pandas>=2.2,<3",
+  "h5py>=3.12,<4",
+  "coloredlogs>=15,<16",
+  "parse>=1.20,<2",
+  "pytz>=2025",
+  "python-multipart>=0.0.20,<1",
+  "soundfile>=0.13,<1",
+  "mido>=1.3,<2",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "httpx>=0.28,<1", "websockets>=15,<17"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["model: exercises the real pretrained piano model"]
+
+[tool.uv]
+package = false

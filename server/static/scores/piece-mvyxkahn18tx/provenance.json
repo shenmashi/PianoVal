@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyxkahn18tx/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-i5on4.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-musicxml",
+      "bytes": 293928,
+      "sha256": "e4983c1d8016137e178d7481ab89a9fa0660571d452647164605297f0b5f14c7"
+    },
+    {
+      "file": "custom-i5on4-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-left",
+      "bytes": 1107,
+      "sha256": "28b571bce2eb0e96d61bfac6346e8a0d73844d935c4cb3bd594dd2daea1dce2c"
+    },
+    {
+      "file": "custom-i5on4-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-right",
+      "bytes": 1945,
+      "sha256": "8f6c1b8f2dc0dc7ace10632d3ccdfa2c8c9f4a61fa39eac1211bc3f52a9ece06"
+    },
+    {
+      "file": "custom-i5on4-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-accompaniment",
+      "bytes": 3335313,
+      "sha256": "5347cbe4b08c55dee47f578889ea7406240db0ac08795e2c60ea0fea471f1411"
+    },
+    {
+      "file": "custom-i5on4-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-jianpu-fixed-svg",
+      "bytes": 221939,
+      "sha256": "9fe5c6bba01aa3533aeb9f0f6bba6c1aa779e2e2b11541a3cc57d948041312e9"
+    },
+    {
+      "file": "custom-i5on4-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-jianpu-fixed-map",
+      "bytes": 14708,
+      "sha256": "50340af39ef49062173bd464d56dec75df500bf3695bd707775f5d8fc43da180"
+    },
+    {
+      "file": "custom-i5on4-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-dual-fixed-svg",
+      "bytes": 465869,
+      "sha256": "a8b5fabf011eb1f17134babf2fa7942015cab643be7ee05364bfdfef43e6a7fa"
+    },
+    {
+      "file": "custom-i5on4-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyxkahn18tx%2Fdcustom-i5on4-dual-fixed-map",
+      "bytes": 15206,
+      "sha256": "04b874b93b16a461c175e30f39fa7daf380bb5033d7071db35be7ec2f512e400"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyybpj9trku/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-9wg4600.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-musicxml",
+      "bytes": 423167,
+      "sha256": "49d137a694e2a834a001801294965d4e51fd9367e7feac14af8bd026810735cd"
+    },
+    {
+      "file": "custom-9wg4600-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-left",
+      "bytes": 2386,
+      "sha256": "ce13e5f78bcedc0b90cc259015b9035b510c2fe160f4ac30f12e882f788d88af"
+    },
+    {
+      "file": "custom-9wg4600-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-right",
+      "bytes": 2179,
+      "sha256": "05417dd216879d3a955ed61d0cb04fcf9583cc45b2c141b1c735ce826bf4da12"
+    },
+    {
+      "file": "custom-9wg4600-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-accompaniment",
+      "bytes": 5276315,
+      "sha256": "8ab5c1e49c032ded3b73866d57d9412c50269497869506c2ec908f59c910f8e0"
+    },
+    {
+      "file": "custom-9wg4600-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-jianpu-fixed-svg",
+      "bytes": 368708,
+      "sha256": "d383b82212e682fe45911b7f444bebb1dfa90d63d9e94e94d8f330b90a742eac"
+    },
+    {
+      "file": "custom-9wg4600-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-jianpu-fixed-map",
+      "bytes": 22539,
+      "sha256": "dcd8dab66fb33b5dfb5fec18bfda7c2a26dd9ae68d12c8457d15ad29bc51db99"
+    },
+    {
+      "file": "custom-9wg4600-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-dual-fixed-svg",
+      "bytes": 765044,
+      "sha256": "3dc73cd96314ff6979420215a36082a88556b21d6b6199e2f39180de93841182"
+    },
+    {
+      "file": "custom-9wg4600-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyybpj9trku%2Fdcustom-9wg4600-dual-fixed-map",
+      "bytes": 24016,
+      "sha256": "9d118ce524708812073c45dce78a740bef1c63cc80a5a0775c51bdacea0a84cb"
+    }
+  ]
+}

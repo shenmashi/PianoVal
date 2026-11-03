@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvz2h1q2yxmf/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-fqxd176.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-musicxml",
+      "bytes": 569251,
+      "sha256": "5ea34efc5a6854d16cd290034764a53ba8820f7166b9e959eab6ad1bda162ba7"
+    },
+    {
+      "file": "custom-fqxd176-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-left",
+      "bytes": 2765,
+      "sha256": "e75dea8c84fdd25849576a31324e00de6ce169986a04417285425b85a4c19729"
+    },
+    {
+      "file": "custom-fqxd176-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-right",
+      "bytes": 3626,
+      "sha256": "8a211a6654a31916f1a2302f7bd20a0a8b7e244b45b672e82d2ef0f52fdea404"
+    },
+    {
+      "file": "custom-fqxd176-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-accompaniment",
+      "bytes": 4481383,
+      "sha256": "f403f0734b46298ca9f58931a8f0f8b7441b2c947b3b39a58c0a0ec7f3129833"
+    },
+    {
+      "file": "custom-fqxd176-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-jianpu-fixed-svg",
+      "bytes": 535985,
+      "sha256": "114656c26cbbf2963e67792b9b27f17e45278f9c6bd20eeb01bd84094d74b957"
+    },
+    {
+      "file": "custom-fqxd176-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-jianpu-fixed-map",
+      "bytes": 28293,
+      "sha256": "9fc25b7ffc5e150774e116748f42406eb8c0ff04212a755fdb33e4ca41e6d1fb"
+    },
+    {
+      "file": "custom-fqxd176-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-dual-fixed-svg",
+      "bytes": 1093217,
+      "sha256": "f8d07351df1effd1818586dc4cc208f6bd391d48ccdb48c784395baea3f788b6"
+    },
+    {
+      "file": "custom-fqxd176-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2h1q2yxmf%2Fdcustom-fqxd176-dual-fixed-map",
+      "bytes": 29756,
+      "sha256": "a01dd1490518b48209ecaec8f9bdc8a53964ee81b6156d36ca9b3a9e29adfc3d"
+    }
+  ]
+}

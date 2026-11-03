@@ -1,0 +1,557 @@
+[
+  {
+    "id": "listen-to-mom",
+    "title": "听妈妈的话",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/listen-to-mom/practice",
+    "versions": [
+      {
+        "id": "easy",
+        "name": "简易版",
+        "tempo": 93,
+        "sourceBars": 37,
+        "durationSeconds": 95.484,
+        "assets": {
+          "musicXml": "easy.musicxml",
+          "leftMidi": "easy-left.mid",
+          "rightMidi": "easy-right.mid",
+          "jianpu": "easy-jianpu.svg",
+          "dual": "easy-dual.svg",
+          "accompaniment": "easy-accompaniment.mp3"
+        },
+        "uniformQuarterLengths": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "id": "normal",
+        "name": "普通版",
+        "tempo": 93,
+        "sourceBars": 38,
+        "durationSeconds": 178.065,
+        "assets": {
+          "musicXml": "normal.musicxml",
+          "leftMidi": "normal-left.mid",
+          "rightMidi": "normal-right.mid",
+          "jianpu": "normal-jianpu.svg",
+          "dual": "normal-dual.svg",
+          "accompaniment": "normal-accompaniment.mp3"
+        },
+        "uniformQuarterLengths": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "measureOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "id": "piece-mvz3s8o8c7b5",
+    "title": "月亮代表我的心",
+    "artist": "邓丽君翻唱",
+    "source": "https://scores.example.com/scores/piece-mvz3s8o8c7b5/practice",
+    "versions": [
+      {
+        "id": "custom-r6f5430",
+        "name": "简易版",
+        "tempo": 70,
+        "sourceBars": 40,
+        "durationSeconds": 137.14285714285714,
+        "assets": {
+          "musicXml": "custom-r6f5430.musicxml",
+          "leftMidi": "custom-r6f5430-left.mid",
+          "rightMidi": "custom-r6f5430-right.mid",
+          "jianpu": "custom-r6f5430-jianpu.svg",
+          "dual": "custom-r6f5430-dual.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvz3d7esr5fg",
+    "title": "永不失联的爱",
+    "artist": "周兴哲",
+    "source": "https://scores.example.com/scores/piece-mvz3d7esr5fg/practice",
+    "versions": [
+      {
+        "id": "custom-8z4u217",
+        "name": "简易版",
+        "tempo": 82,
+        "sourceBars": 36,
+        "durationSeconds": 105.36585365853658,
+        "assets": {
+          "musicXml": "custom-8z4u217.musicxml",
+          "leftMidi": "custom-8z4u217-left.mid",
+          "rightMidi": "custom-8z4u217-right.mid",
+          "jianpu": "custom-8z4u217-jianpu.svg",
+          "dual": "custom-8z4u217-dual.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyyjo93xk3t",
+    "title": "青花瓷",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyyjo93xk3t/practice",
+    "versions": [
+      {
+        "id": "custom-ii50777",
+        "name": "简易版",
+        "tempo": 54,
+        "sourceBars": 24,
+        "durationSeconds": 106.66666666666667,
+        "assets": {
+          "musicXml": "custom-ii50777.musicxml",
+          "leftMidi": "custom-ii50777-left.mid",
+          "rightMidi": "custom-ii50777-right.mid",
+          "jianpu": "custom-ii50777-jianpu.svg",
+          "dual": "custom-ii50777-dual.svg",
+          "accompaniment": "custom-ii50777-accompaniment.mp3"
+        }
+      },
+      {
+        "id": "custom-iwtk785",
+        "name": "进阶版",
+        "tempo": 54,
+        "sourceBars": 44,
+        "durationSeconds": 195.55555555555557,
+        "assets": {
+          "musicXml": "custom-iwtk785.musicxml",
+          "leftMidi": "custom-iwtk785-left.mid",
+          "rightMidi": "custom-iwtk785-right.mid",
+          "jianpu": "custom-iwtk785-jianpu.svg",
+          "dual": "custom-iwtk785-dual.svg",
+          "accompaniment": "custom-iwtk785-accompaniment.mp3"
+        }
+      },
+      {
+        "id": "custom-il3c238",
+        "name": "初级版",
+        "tempo": 120,
+        "sourceBars": 81,
+        "durationSeconds": 162,
+        "assets": {
+          "musicXml": "custom-il3c238.musicxml",
+          "leftMidi": "custom-il3c238-left.mid",
+          "rightMidi": "custom-il3c238-right.mid",
+          "jianpu": "custom-il3c238-jianpu.svg",
+          "dual": "custom-il3c238-dual.svg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvz2oen46nl1",
+    "title": "人生的旋转木马",
+    "artist": "久石让",
+    "source": "https://scores.example.com/scores/piece-mvz2oen46nl1/practice",
+    "versions": [
+      {
+        "id": "custom-lemq170",
+        "name": "进阶版",
+        "tempo": 80,
+        "sourceBars": 135,
+        "durationSeconds": 303.8734375,
+        "assets": {
+          "musicXml": "custom-lemq170.musicxml",
+          "leftMidi": "custom-lemq170-left.mid",
+          "rightMidi": "custom-lemq170-right.mid",
+          "jianpu": "custom-lemq170-jianpu.svg",
+          "dual": "custom-lemq170-dual.svg",
+          "accompaniment": "custom-lemq170-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvz2h1q2yxmf",
+    "title": "青城山下白素贞",
+    "artist": "徐梦圆",
+    "source": "https://scores.example.com/scores/piece-mvz2h1q2yxmf/practice",
+    "versions": [
+      {
+        "id": "custom-fqxd176",
+        "name": "进阶版",
+        "tempo": 78,
+        "sourceBars": 46,
+        "durationSeconds": 141.53846153846155,
+        "assets": {
+          "musicXml": "custom-fqxd176.musicxml",
+          "leftMidi": "custom-fqxd176-left.mid",
+          "rightMidi": "custom-fqxd176-right.mid",
+          "jianpu": "custom-fqxd176-jianpu.svg",
+          "dual": "custom-fqxd176-dual.svg",
+          "accompaniment": "custom-fqxd176-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvz2bwmiwrzw",
+    "title": "梦中的婚礼",
+    "artist": "理查德·克莱德曼",
+    "source": "https://scores.example.com/scores/piece-mvz2bwmiwrzw/practice",
+    "versions": [
+      {
+        "id": "custom-86x714",
+        "name": "原版",
+        "tempo": 73,
+        "sourceBars": 29,
+        "durationSeconds": 113.83561643835615,
+        "assets": {
+          "musicXml": "custom-86x714.musicxml",
+          "leftMidi": "custom-86x714-left.mid",
+          "rightMidi": "custom-86x714-right.mid",
+          "accompaniment": "custom-86x714-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyzljgn050w",
+    "title": "贝加尔湖畔",
+    "artist": "李健",
+    "source": "https://scores.example.com/scores/piece-mvyzljgn050w/practice",
+    "versions": [
+      {
+        "id": "custom-su4o418",
+        "name": "版本 2",
+        "tempo": 60,
+        "sourceBars": 56,
+        "durationSeconds": 219.01041666666666,
+        "assets": {
+          "musicXml": "custom-su4o418.musicxml",
+          "leftMidi": "custom-su4o418-left.mid",
+          "rightMidi": "custom-su4o418-right.mid",
+          "jianpu": "custom-su4o418-jianpu.svg",
+          "dual": "custom-su4o418-dual.svg",
+          "accompaniment": "custom-su4o418-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyybpj9trku",
+    "title": "花海",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyybpj9trku/practice",
+    "versions": [
+      {
+        "id": "custom-9wg4600",
+        "name": "简易版",
+        "tempo": 75,
+        "sourceBars": 49,
+        "durationSeconds": 156.8,
+        "assets": {
+          "musicXml": "custom-9wg4600.musicxml",
+          "leftMidi": "custom-9wg4600-left.mid",
+          "rightMidi": "custom-9wg4600-right.mid",
+          "jianpu": "custom-9wg4600-jianpu.svg",
+          "dual": "custom-9wg4600-dual.svg",
+          "accompaniment": "custom-9wg4600-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyy6u4ai801",
+    "title": "给我一首歌的时间",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyy6u4ai801/practice",
+    "versions": [
+      {
+        "id": "custom-yy05520",
+        "name": "初级版",
+        "tempo": 118,
+        "sourceBars": 86,
+        "durationSeconds": 174.91631355932205,
+        "assets": {
+          "musicXml": "custom-yy05520.musicxml",
+          "leftMidi": "custom-yy05520-left.mid",
+          "rightMidi": "custom-yy05520-right.mid",
+          "jianpu": "custom-yy05520-jianpu.svg",
+          "dual": "custom-yy05520-dual.svg",
+          "accompaniment": "custom-yy05520-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyyl7zaljt5",
+    "title": "晴天",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyyl7zaljt5/practice",
+    "versions": [
+      {
+        "id": "custom-jqb7526",
+        "name": "简易版",
+        "tempo": 69,
+        "sourceBars": 35,
+        "durationSeconds": 142.6086956521739,
+        "assets": {
+          "musicXml": "custom-jqb7526.musicxml",
+          "leftMidi": "custom-jqb7526-left.mid",
+          "rightMidi": "custom-jqb7526-right.mid",
+          "jianpu": "custom-jqb7526-jianpu.svg",
+          "dual": "custom-jqb7526-dual.svg",
+          "accompaniment": "custom-jqb7526-accompaniment.mp3"
+        },
+        "measureOrder": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          32,
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyxkahn18tx",
+    "title": "稻香",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyxkahn18tx/practice",
+    "versions": [
+      {
+        "id": "custom-i5on4",
+        "name": "简易版",
+        "tempo": 82,
+        "sourceBars": 33,
+        "durationSeconds": 96.58536585365853,
+        "assets": {
+          "musicXml": "custom-i5on4.musicxml",
+          "leftMidi": "custom-i5on4-left.mid",
+          "rightMidi": "custom-i5on4-right.mid",
+          "jianpu": "custom-i5on4-jianpu.svg",
+          "dual": "custom-i5on4-dual.svg",
+          "accompaniment": "custom-i5on4-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyyd3mk2zte",
+    "title": "菊花台",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyyd3mk2zte/practice",
+    "versions": [
+      {
+        "id": "custom-br8y359",
+        "name": "简易版",
+        "tempo": 69,
+        "sourceBars": 45,
+        "durationSeconds": 153.91304347826087,
+        "assets": {
+          "musicXml": "custom-br8y359.musicxml",
+          "leftMidi": "custom-br8y359-left.mid",
+          "rightMidi": "custom-br8y359-right.mid",
+          "jianpu": "custom-br8y359-jianpu.svg",
+          "dual": "custom-br8y359-dual.svg",
+          "accompaniment": "custom-br8y359-accompaniment.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piece-mvyz3a9xwoqr",
+    "title": "夜曲",
+    "artist": "周杰伦",
+    "source": "https://scores.example.com/scores/piece-mvyz3a9xwoqr/practice",
+    "versions": [
+      {
+        "id": "custom-2112210",
+        "name": "简易版",
+        "tempo": 85,
+        "sourceBars": 49,
+        "durationSeconds": 138.3573529411765,
+        "assets": {
+          "musicXml": "custom-2112210.musicxml",
+          "leftMidi": "custom-2112210-left.mid",
+          "rightMidi": "custom-2112210-right.mid",
+          "jianpu": "custom-2112210-jianpu.svg",
+          "dual": "custom-2112210-dual.svg",
+          "accompaniment": "custom-2112210-accompaniment.mp3"
+        }
+      }
+    ]
+  }
+]

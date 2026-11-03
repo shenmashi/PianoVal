@@ -1,0 +1,102 @@
+{
+  "page": "https://scores.example.com/scores/listen-to-mom/practice",
+  "purpose": "User-requested local integration test",
+  "assets": [
+    {
+      "file": "easy.musicxml",
+      "bytes": 121455,
+      "sha256": "ca61acb3c231dda7a1269f705427916abb2774aca9604f18d34317a9ca46a211",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy.musicxml"
+    },
+    {
+      "file": "easy-left.mid",
+      "bytes": 431,
+      "sha256": "ff221522e2a5f9897159ebeec0d7fec7e5cc208113d00b4cd69c2f5aef5330a0",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-left.mid"
+    },
+    {
+      "file": "easy-right.mid",
+      "bytes": 920,
+      "sha256": "bb1d8aac0a297221bc6b90f696fd98fde8ab7c25c949a6ad361d01e1be5eee94",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-right.mid"
+    },
+    {
+      "file": "easy-accompaniment.mp3",
+      "bytes": 3224181,
+      "sha256": "93af3d520eb7fe5131c8569c078c87269906fdcb09905618b29cacbd8f49e970",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-accompaniment.mp3"
+    },
+    {
+      "file": "easy-jianpu.svg",
+      "bytes": 111981,
+      "sha256": "029c55f47b656a04140cadfb428c456c6dae79ac2ec52db7b8c8e7483acbdec7",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-jianpu.svg"
+    },
+    {
+      "file": "easy-jianpu-map.json",
+      "bytes": 13637,
+      "sha256": "017266692890fdccd739494d59d12ca9e72217ac0f1a58cdd4524fdc34f7f0fc",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-jianpu-map.json"
+    },
+    {
+      "file": "easy-dual.svg",
+      "bytes": 225255,
+      "sha256": "cc1d6bdeeffdec4921792b7fffb6d5ff6d423dffd6ae30a6ffdd22faf688f154",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-dual.svg"
+    },
+    {
+      "file": "easy-dual-map.json",
+      "bytes": 13643,
+      "sha256": "87053899e00250e0a1f8ddb6131ffd11bf13ce7001e73e670191563b34aef0cf",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/easy-dual-map.json"
+    },
+    {
+      "file": "normal.musicxml",
+      "bytes": 278206,
+      "sha256": "5dcf34196cc8af97e91138ef97c6d0ce84b68a2cafec1f34bedfff41e028b0c3",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal.musicxml"
+    },
+    {
+      "file": "normal-left.mid",
+      "bytes": 3833,
+      "sha256": "7d23bdefb9765437ed1e1e727506d05c4a3b57cf50853f6817a82033de4485b2",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-left.mid"
+    },
+    {
+      "file": "normal-right.mid",
+      "bytes": 1989,
+      "sha256": "3670bdad1d19a08b2ec1a5555a24730def5008ecdbeef0a9fbab0253190f6baa",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-right.mid"
+    },
+    {
+      "file": "normal-accompaniment.mp3",
+      "bytes": 5866519,
+      "sha256": "caa480df9fcba52131dabbc706f7c34393210aaa67385545c6f5f853a0aecd48",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-accompaniment.mp3"
+    },
+    {
+      "file": "normal-jianpu.svg",
+      "bytes": 240484,
+      "sha256": "c9da5a9028d08393a0453562d3a46f56f5eac90750ca50019bf2190f0eb6882e",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-jianpu.svg"
+    },
+    {
+      "file": "normal-jianpu-map.json",
+      "bytes": 17337,
+      "sha256": "3ab027395e8c21737c70a46c692ac126eb56c7af50d81394048f6006ddb9fa10",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-jianpu-map.json"
+    },
+    {
+      "file": "normal-dual.svg",
+      "bytes": 517217,
+      "sha256": "60bf0fe5593dd85ab29f9d2f206956e0e4fa086c9d51a2cb3375a8d9f622b2ed",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-dual.svg"
+    },
+    {
+      "file": "normal-dual-map.json",
+      "bytes": 17332,
+      "sha256": "be4a0448e6da3386d180b392fd9461f24b04a3692b6981a5a9f7f3588b7862c5",
+      "source": "https://scores.example.com/assets/scores/listen-to-mom/normal-dual-map.json"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+PianoVal
+Copyright 2026 PianoVal contributors
+
+Original PianoVal source code and documentation are licensed under the
+Apache License, Version 2.0. This notice does not relicense third-party
+code, pretrained models, piano samples, scores or accompaniment recordings.
+
+The bundled Onsets & Velocities source is copyright its upstream authors
+and is licensed under GPL-3.0. Its license is retained at
+server/vendor/O&V-LICENSE.txt. Distribution of a combined work must also
+comply with the applicable GPL-3.0 terms.
+
+See THIRD_PARTY_NOTICES.md for component-specific notices and sources.

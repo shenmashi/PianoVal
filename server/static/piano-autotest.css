@@ -1,0 +1,57 @@
+.piano-auto-controls{margin:14px 0;padding:16px;background:#fff;border:1px solid #d6e5df;border-radius:8px}
+.piano-play-controls{padding:12px 18px;background:#fafdfb;border-bottom:1px solid #d6e5df}
+.piano-play-controls .simulator-session{margin-bottom:8px}
+#practice-piece{max-width:260px}
+.piano-mode #practice-keyboard{margin:0;border-top:0}
+.piano-mode #practice-sheet-scroll{border-bottom:0}
+.piano-play-controls:after{content:'虚拟琴直连 · 模拟结果不代表学生实弹准确率';display:block;color:#72877d;font-size:10px;margin-top:8px}
+.simulation-scope{padding:10px;background:#f2f6f4;border-radius:6px}
+.practice-test-history{margin-top:20px}
+.practice-test-history .table-wrap{max-height:300px;overflow:auto}
+.practice-test-history td{font-size:11px;white-space:nowrap}
+.practice-test-history td .text-button{margin-right:12px}
+.piano-auto-controls>strong{display:block;font-size:13px;color:#24463f;margin-bottom:12px}
+.piano-auto-buttons{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.piano-auto-buttons label{display:flex;align-items:center;gap:8px;font-size:11px}
+.piano-auto-buttons select{width:74px;height:32px;padding:4px 8px}
+.piano-auto-controls p{font-size:11px;line-height:1.8;margin:10px 0;color:#607b72}
+.piano-auto-progress{margin-top:12px;font-size:12px;line-height:1.8;color:#17685a}
+.piano-auto-result{margin-top:16px;padding-top:16px;border-top:1px solid #d6e5df}
+.piano-auto-result-heading{display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px}
+.piano-auto-accuracy-card{margin-top:12px;padding:16px;background:#eaf6f1;border:1px solid #b9dbcf;border-radius:6px;color:#24564a;font-size:12px;line-height:1.8}
+.piano-auto-accuracy-card>span{display:block;font-weight:600}
+.piano-auto-accuracy-card>strong{display:block;font-size:36px;line-height:1.4;color:#126953}
+.piano-auto-accuracy-card p{margin-bottom:0}
+.piano-auto-accuracy-card .piano-auto-target{font-size:12px;line-height:1.8;margin-top:8px;color:#915515}
+.piano-auto-accuracy-card .piano-auto-target[data-passed=true]{color:#126953}
+.piano-auto-latency{padding:10px;background:#f4f7fa;border-radius:5px}
+#practice-result-view{width:auto;max-width:100%;font-size:11px;height:32px}
+.practice-differences tr[data-verdict=falseBlocks],.practice-differences tr[data-verdict=falsePasses]{background:#fff3e3}
+.piano-auto-note-details{font-size:11px;line-height:1.8;color:#607b72}
+.piano-auto-note-details summary{cursor:pointer;color:#17685a}
+.piano-auto-metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(92px,1fr));gap:8px;margin-top:12px}
+.piano-auto-metrics>div{padding:10px;background:#f2f7f5;border-radius:5px;font-size:10px;color:#607b72}
+.piano-auto-metrics strong{display:block;font-size:20px;color:#17685a;margin-bottom:5px}
+.piano-auto-table-scroll{overflow:auto;max-height:300px;margin-top:12px;border:1px solid #e0e8e4;border-radius:5px}
+.piano-auto-table-scroll table{min-width:560px;width:100%;font-size:11px}
+.piano-auto-table-scroll th{position:sticky;top:0;background:#f5f8f6;z-index:1}
+.piano-auto-table-scroll th,.piano-auto-table-scroll td{padding:9px 10px;white-space:normal}
+.piano-auto-table-scroll tr[data-verdict=falseBlocks],.piano-auto-table-scroll tr[data-verdict=falsePasses]{background:#fff3e3}
+@media(max-width:540px){.piano-auto-controls{padding:12px}.piano-auto-buttons .button{flex:1 0 auto}.piano-auto-metrics{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.practice-teacher-help {padding:14px 18px; margin:0 0 20px; border:1px solid #b9dcd3; border-radius:8px; background:#eef7f4; color:#216758; line-height:1.8; font-size:12px;}
+.piano-key.reference-playing {background:#b9e6d9; box-shadow:inset 0 0 0 2px #187a69;}
+.piano-key.sharp.reference-playing {background:#21967e;}
+.audio-sync-settings {font-size:11px; line-height:1.7; color:#57716e; margin:8px 0;}
+.audio-sync-settings label {display:inline-flex; gap:8px; align-items:center; margin:5px 14px 0 0;}
+.audio-sync-settings input {width:80px;}
+.reference-track:has(.audio-sync-settings) {flex-wrap:wrap;}
+.audio-sync-settings {flex-basis:100%;}
+#practice-sheet-scroll,
+.piano-mode #practice-sheet-scroll,
+.practice-score-card:fullscreen #practice-sheet-scroll,
+.piano-mode .practice-score-card:fullscreen #practice-sheet-scroll {
+  height:auto; min-height:0; max-height:none; padding:12px 10px 8px;
+  overflow-x:auto; overflow-y:hidden;
+}
+#practice-score-render,.piano-mode #practice-score-render {min-height:0;}
+#practice-score-render svg {display:block;}

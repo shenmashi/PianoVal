@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyzljgn050w/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-su4o418.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-musicxml",
+      "bytes": 651208,
+      "sha256": "8351f17df268af7b554312035a86551ba4fc48c8a8fde82f8f1dc83bb88c0649"
+    },
+    {
+      "file": "custom-su4o418-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-left",
+      "bytes": 3402,
+      "sha256": "f27074b92e6f1deb56802f2b1642b861811657979b1305b6d7af82898f4765aa"
+    },
+    {
+      "file": "custom-su4o418-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-right",
+      "bytes": 3925,
+      "sha256": "19fb4f41496269c8b85e7da354fb97b28469d4b192c0dc046b175e1323e7362a"
+    },
+    {
+      "file": "custom-su4o418-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-accompaniment",
+      "bytes": 7464776,
+      "sha256": "a2791661a1c76253d780f1d02cdbbe51a58e2715f790b9271a5dec1cf62bbc12"
+    },
+    {
+      "file": "custom-su4o418-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-jianpu-fixed-svg",
+      "bytes": 631902,
+      "sha256": "918f91d32477e3ca9667b856a53c61eae07ab1ac9dcbf3d31b80a7cb42108547"
+    },
+    {
+      "file": "custom-su4o418-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-jianpu-fixed-map",
+      "bytes": 33725,
+      "sha256": "9ce64f6fe1874ea2700d2d25d45fc8022f12bce0cfd6fe97f6c49153cfba355a"
+    },
+    {
+      "file": "custom-su4o418-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-dual-fixed-svg",
+      "bytes": 1261940,
+      "sha256": "815a23d57e949791c46debcb933c273a7942958d8800e7017e4f6afab509d9a5"
+    },
+    {
+      "file": "custom-su4o418-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyzljgn050w%2Fdcustom-su4o418-dual-fixed-map",
+      "bytes": 35448,
+      "sha256": "68bf84f87db8660648af800556e58d88871a0f4d4d9b159b9bb11dc048db3ed6"
+    }
+  ]
+}

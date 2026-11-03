@@ -1,0 +1,216 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyyjo93xk3t/practice",
+  "purpose": "User-requested local multi-piece recognition test",
+  "assets": [
+    {
+      "file": "custom-ii50777.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-musicxml",
+      "bytes": 311189,
+      "sha256": "a795fdc251afb37b361ec67ad101c0cbec757f76fcdb216b05c762883817c267"
+    },
+    {
+      "file": "custom-ii50777-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-left",
+      "bytes": 1152,
+      "sha256": "673434eb1bd118be1c76ca349a41ee6f6d0a21358d940d61fa5c7ebf37104f51"
+    },
+    {
+      "file": "custom-ii50777-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-right",
+      "bytes": 2229,
+      "sha256": "86c4d8acb64c6d7776db6c76915e265efb1a72a0cd815a6c8489badac352adb8"
+    },
+    {
+      "file": "custom-ii50777-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-accompaniment",
+      "bytes": 3921318,
+      "sha256": "dd281758699ccde6373d9e0f17a53edc4cbc1c4e9855a61fdb855f4835da5376"
+    },
+    {
+      "file": "custom-ii50777-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-jianpu-fixed-svg",
+      "bytes": 235929,
+      "sha256": "5ba5ad71d4a9b5c61f7d9426540048546043d94bff099bdc870b0f35bb64aafd"
+    },
+    {
+      "file": "custom-ii50777-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-jianpu-fixed-map",
+      "bytes": 14304,
+      "sha256": "d493e6e62663cf57feb0d7182875fbb68aed5312db9a559c9b2630570d64ec6d"
+    },
+    {
+      "file": "custom-ii50777-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-dual-fixed-svg",
+      "bytes": 483080,
+      "sha256": "cc09ff340b2608c08fffe66bebabdb2d034df5a7cd76118472acc29e9a4111c6"
+    },
+    {
+      "file": "custom-ii50777-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-dual-fixed-map",
+      "bytes": 14700,
+      "sha256": "8c7723bb7e004133d4679556bee978e0aa41c0fcfa90bae7bd06601368de5ae4"
+    },
+    {
+      "file": "custom-ii50777-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-jianpu-movable-svg",
+      "bytes": 235929,
+      "sha256": "5ba5ad71d4a9b5c61f7d9426540048546043d94bff099bdc870b0f35bb64aafd"
+    },
+    {
+      "file": "custom-ii50777-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-jianpu-movable-map",
+      "bytes": 14304,
+      "sha256": "d493e6e62663cf57feb0d7182875fbb68aed5312db9a559c9b2630570d64ec6d"
+    },
+    {
+      "file": "custom-ii50777-dual-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-dual-movable-svg",
+      "bytes": 483080,
+      "sha256": "cc09ff340b2608c08fffe66bebabdb2d034df5a7cd76118472acc29e9a4111c6"
+    },
+    {
+      "file": "custom-ii50777-dual-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-ii50777-dual-movable-map",
+      "bytes": 14700,
+      "sha256": "8c7723bb7e004133d4679556bee978e0aa41c0fcfa90bae7bd06601368de5ae4"
+    },
+    {
+      "file": "custom-iwtk785.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-musicxml",
+      "bytes": 724105,
+      "sha256": "82846d8bdab3ddd6ed79f5f3d775284b0d50a1e8510c24ba0c28d361b052f179"
+    },
+    {
+      "file": "custom-iwtk785-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-left",
+      "bytes": 3216,
+      "sha256": "15ddb5cb5037f47b68eeab16fb0730ff9f40b15f7a48692f13b6b03548a8d879"
+    },
+    {
+      "file": "custom-iwtk785-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-right",
+      "bytes": 4046,
+      "sha256": "457d159ede1153c45ea02486d3a4d156351f3e3fcb7a2efbe2b3a1d5fb92b693"
+    },
+    {
+      "file": "custom-iwtk785-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-accompaniment",
+      "bytes": 6803565,
+      "sha256": "7e65250a0b2e94cc828eab00598a28b1577a934cfb5ae218177468675a57942f"
+    },
+    {
+      "file": "custom-iwtk785-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-jianpu-fixed-svg",
+      "bytes": 605329,
+      "sha256": "ddbe4037521e75cfa5c3e83b64e93201fb2992c0f3707354c1750e1bc18f451a"
+    },
+    {
+      "file": "custom-iwtk785-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-jianpu-fixed-map",
+      "bytes": 34653,
+      "sha256": "c1ea7471b6e14e2e7c1a9125e3147ee9bee1bbe9654280f0de0cf59dbea541ef"
+    },
+    {
+      "file": "custom-iwtk785-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-dual-fixed-svg",
+      "bytes": 1232185,
+      "sha256": "d19d58cd9846eb06d3f84cb7933ba7eb35a7cc74c61a032f26c62d114b23dfaf"
+    },
+    {
+      "file": "custom-iwtk785-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-dual-fixed-map",
+      "bytes": 35340,
+      "sha256": "0ac197219607f9b886cb93e110411f64cf34b8f873acb5e0db64a959c809de3d"
+    },
+    {
+      "file": "custom-iwtk785-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-jianpu-movable-svg",
+      "bytes": 607342,
+      "sha256": "1c1c681df4d5fa9d2988482babd30b6975ac0ef764ca661a6782791ad75343ff"
+    },
+    {
+      "file": "custom-iwtk785-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-jianpu-movable-map",
+      "bytes": 34625,
+      "sha256": "b1b2faf2a80eaf6a55ddbc501284622f05f827cc3c756c8b78f3f865903a9a19"
+    },
+    {
+      "file": "custom-iwtk785-dual-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-dual-movable-svg",
+      "bytes": 1361491,
+      "sha256": "7dcc254854a7f24c545750732935e5da2ba8317cc6604b928044e74c48d7871e"
+    },
+    {
+      "file": "custom-iwtk785-dual-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-iwtk785-dual-movable-map",
+      "bytes": 35402,
+      "sha256": "1ad6b5ad2e6190cdc6672544a5690a70c76414369543c877430b8f171dbebb2f"
+    },
+    {
+      "file": "custom-il3c238.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-musicxml",
+      "bytes": 557073,
+      "sha256": "c9098fa774a13dd3c3b385098abf1706a3dc3e12898bb747e355fc88e6c6e9bd"
+    },
+    {
+      "file": "custom-il3c238-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-left",
+      "bytes": 3656,
+      "sha256": "d2eddf239a77c9f2446314e8fb8a5e7258d3bfe8755bfe0cdd87017d904eeab4"
+    },
+    {
+      "file": "custom-il3c238-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-right",
+      "bytes": 3913,
+      "sha256": "13a1cf91ffb9822029589958c234c9d66001f0e8413c3e062e8cce001df5942f"
+    },
+    {
+      "file": "custom-il3c238-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-jianpu-fixed-svg",
+      "bytes": 558823,
+      "sha256": "56013b309c5f2b919b869b6c3e0932ee69692d9da636d61b0c0b884f715bc4cd"
+    },
+    {
+      "file": "custom-il3c238-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-jianpu-fixed-map",
+      "bytes": 36578,
+      "sha256": "79181614cb5e637ceddd08678a51bbe4bbe6a566a74c48bbef7e1d90ff51cd04"
+    },
+    {
+      "file": "custom-il3c238-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-dual-fixed-svg",
+      "bytes": 1127209,
+      "sha256": "cb581ccb50dfae36fc8399e12e2430c2f138197e64d63820339c3387f76f72f9"
+    },
+    {
+      "file": "custom-il3c238-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-dual-fixed-map",
+      "bytes": 37793,
+      "sha256": "cd0161168ae09e5ce5c9a11db549279d74ad24fe68a5088b13d6a9f35eeb2711"
+    },
+    {
+      "file": "custom-il3c238-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-jianpu-movable-svg",
+      "bytes": 545819,
+      "sha256": "aada6e379b9e16e6a7e40108db4654b099711155af20883c6d95dfc6ed5cb618"
+    },
+    {
+      "file": "custom-il3c238-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-jianpu-movable-map",
+      "bytes": 36551,
+      "sha256": "32035cad1f33b345fba481fc3e8b0697721d01a44f8e30ffbb0de3f188c95454"
+    },
+    {
+      "file": "custom-il3c238-dual-movable.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-dual-movable-svg",
+      "bytes": 1232090,
+      "sha256": "6769ac5a26914b18751124f143aafad0b32563f118492ac4fb4eefd3cb0a4f6e"
+    },
+    {
+      "file": "custom-il3c238-dual-movable-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyjo93xk3t%2Fdcustom-il3c238-dual-movable-map",
+      "bytes": 37793,
+      "sha256": "44c00bf45819dfffb35f9b95ac9b2cfdc701d630d8e9b4499562d45d4b9081da"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyyl7zaljt5/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-jqb7526.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-musicxml",
+      "bytes": 334113,
+      "sha256": "cc3451c58df5dd75ee01c531d1491be6648ea43aba124fcb47caf04c3eb83409"
+    },
+    {
+      "file": "custom-jqb7526-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-left",
+      "bytes": 1501,
+      "sha256": "ca06b20665d995256b4ae0cfa54fbf5e319629dd7590bd1c4a24638001f66709"
+    },
+    {
+      "file": "custom-jqb7526-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-right",
+      "bytes": 2584,
+      "sha256": "fa4647ae7823ddd837fe25f993f674cc5bf470fd25042b96ecf1100f982cd4f4"
+    },
+    {
+      "file": "custom-jqb7526-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-accompaniment",
+      "bytes": 4818232,
+      "sha256": "95e4226fa8c92e89fd8b82272b998359bd8556bdf744ebbeefd97af0e36e76ca"
+    },
+    {
+      "file": "custom-jqb7526-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-jianpu-fixed-svg",
+      "bytes": 271808,
+      "sha256": "3ed3d65ef55432741c0b399b2420176ce61af4e1aab26d458047d4e0e5cdab4a"
+    },
+    {
+      "file": "custom-jqb7526-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-jianpu-fixed-map",
+      "bytes": 16060,
+      "sha256": "e4aa0f48b4593c1a7686c39eaad4282ae7d29bfc551dd929ce43d588e6c2bb41"
+    },
+    {
+      "file": "custom-jqb7526-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-dual-fixed-svg",
+      "bytes": 547751,
+      "sha256": "f41bf6e9fd93961035354d01a2bcb3a1c30b87e6962eb026df4cd0440f3b6beb"
+    },
+    {
+      "file": "custom-jqb7526-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyl7zaljt5%2Fdcustom-jqb7526-dual-fixed-map",
+      "bytes": 16605,
+      "sha256": "254edca0ac5e17c5f51a07d556de0d6b3bd4bbe4ff078e6843bf549d4bb63322"
+    }
+  ]
+}

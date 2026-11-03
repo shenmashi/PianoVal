@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyyd3mk2zte/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-br8y359.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-musicxml",
+      "bytes": 330653,
+      "sha256": "e0e31a5aef49d60498cbfc7b538f5ab4605b5190b583675fd7e5d8ba12fb2238"
+    },
+    {
+      "file": "custom-br8y359-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-left",
+      "bytes": 1513,
+      "sha256": "6953256ec639625680372d85d0c524ad0187bdce8cc73a4df829616b984a49ae"
+    },
+    {
+      "file": "custom-br8y359-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-right",
+      "bytes": 2113,
+      "sha256": "0d71af1d68d83e4d9fe6bb84cd3a9b4d5007e4f78a4e158bccbbed09bca374c5"
+    },
+    {
+      "file": "custom-br8y359-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-accompaniment",
+      "bytes": 8695222,
+      "sha256": "e0babbf9bc62551dbe182bf4a304828ca3879f9eb6304f6e6fcc674a533e86ff"
+    },
+    {
+      "file": "custom-br8y359-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-jianpu-fixed-svg",
+      "bytes": 262942,
+      "sha256": "645d125d88b3072c090e53c7aa2ee9d67f28bae6d3262d5b6803364d1ce3130f"
+    },
+    {
+      "file": "custom-br8y359-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-jianpu-fixed-map",
+      "bytes": 17736,
+      "sha256": "ea779aac06d5623460f409d443fdd80e021dca7046f71fe869ef840f3dfc569b"
+    },
+    {
+      "file": "custom-br8y359-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-dual-fixed-svg",
+      "bytes": 526102,
+      "sha256": "346a215021d5825437c81000251d3d60c12290e8d74d5d0983f733976090dd62"
+    },
+    {
+      "file": "custom-br8y359-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyyd3mk2zte%2Fdcustom-br8y359-dual-fixed-map",
+      "bytes": 19131,
+      "sha256": "9c1e193d4e3b39719a1cdaef8b6f8f3bd53ad307b7fe17010bb168cb43d87fa1"
+    }
+  ]
+}

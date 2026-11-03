@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyy6u4ai801/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-yy05520.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-musicxml",
+      "bytes": 577073,
+      "sha256": "bbcfdc9b1b6831fe65dd975180ec2de6312365a58fc0b3eece12bc570812f468"
+    },
+    {
+      "file": "custom-yy05520-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-left",
+      "bytes": 2299,
+      "sha256": "57b0981a62b7734217badae40a3280152b2ec57051fc71da33164a2c9d1cd7bb"
+    },
+    {
+      "file": "custom-yy05520-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-right",
+      "bytes": 4009,
+      "sha256": "7877a6e149cffe449ac18f3e66e731510714eb8a1fff6766040b5aefe090b032"
+    },
+    {
+      "file": "custom-yy05520-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-accompaniment",
+      "bytes": 5851427,
+      "sha256": "4815590fd02ed70fce5b3f4d64f7aa32da8000d1558a3dd3865138eb657796e7"
+    },
+    {
+      "file": "custom-yy05520-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-jianpu-fixed-svg",
+      "bytes": 476603,
+      "sha256": "3da7b282bea901cdd5bae08cba7de30de9dc43c0326a5bb0efe01b8526d91d4f"
+    },
+    {
+      "file": "custom-yy05520-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-jianpu-fixed-map",
+      "bytes": 32009,
+      "sha256": "1646543fa28a2bb7e2c1fb9d73fe80d3a62ee4c05da27a8fc623d591e032350b"
+    },
+    {
+      "file": "custom-yy05520-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-dual-fixed-svg",
+      "bytes": 946725,
+      "sha256": "0fc667f5092c3cf3dfdd9c73ae17c2a87e71b00a697f6b06a85a46417c4f3515"
+    },
+    {
+      "file": "custom-yy05520-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyy6u4ai801%2Fdcustom-yy05520-dual-fixed-map",
+      "bytes": 34619,
+      "sha256": "b845c6fd72132dab7111e532ca5059325459c40e0d704597ea94efc88a4159b6"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvz2oen46nl1/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-lemq170.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-musicxml",
+      "bytes": 981343,
+      "sha256": "8718cd64bba5a72f2ee9ea4a875705b82cf0b39e907469ce13d09a0dae16b33a"
+    },
+    {
+      "file": "custom-lemq170-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-left",
+      "bytes": 6453,
+      "sha256": "91e9d92a2c2bc9b16ddc2173e518f146d365d98dad5d86c7087f2c889126b4d9"
+    },
+    {
+      "file": "custom-lemq170-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-right",
+      "bytes": 5907,
+      "sha256": "ed5fd8548c3810ffacd19cf91575748b93e0549370a92dc905c45121e11a90d2"
+    },
+    {
+      "file": "custom-lemq170-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-accompaniment",
+      "bytes": 8730356,
+      "sha256": "5ce6cb4d1f007f8e33ace609c7bf4445aee2001e8b1438d4102f7cef5ae0edb3"
+    },
+    {
+      "file": "custom-lemq170-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-jianpu-fixed-svg",
+      "bytes": 1234255,
+      "sha256": "3788b31c04d1efdc9ac327eedd0bf08589268e68c1e4480ea060dacec5715048"
+    },
+    {
+      "file": "custom-lemq170-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-jianpu-fixed-map",
+      "bytes": 90356,
+      "sha256": "1d2dd6e824986d52d78045a1b99fa1f88c7d1bc42846d0bb93b3c70bf5e5213c"
+    },
+    {
+      "file": "custom-lemq170-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-dual-fixed-svg",
+      "bytes": 2359199,
+      "sha256": "036d5989d1cc2e64c3966732d03801ac95324a0905dfb46216b73e38c8bfe3b8"
+    },
+    {
+      "file": "custom-lemq170-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2oen46nl1%2Fdcustom-lemq170-dual-fixed-map",
+      "bytes": 96615,
+      "sha256": "9b63d4edd381609a5353cd0bc1da58c1a4065354047dd88b1d1752c9cfbea4f7"
+    }
+  ]
+}

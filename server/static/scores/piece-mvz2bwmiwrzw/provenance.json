@@ -1,0 +1,30 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvz2bwmiwrzw/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-86x714.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2bwmiwrzw%2Fdcustom-86x714-musicxml",
+      "bytes": 496849,
+      "sha256": "833bab32df694ea3e91468964e441ffd23b7d16ecf3e4c325eac8de936920abe"
+    },
+    {
+      "file": "custom-86x714-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2bwmiwrzw%2Fdcustom-86x714-left",
+      "bytes": 2886,
+      "sha256": "179b9ebcbe7da9af3b8d20bfdcb64f330e3bca8e982beb8aeaa4af7beadbd783"
+    },
+    {
+      "file": "custom-86x714-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2bwmiwrzw%2Fdcustom-86x714-right",
+      "bytes": 3761,
+      "sha256": "3c0f4ec068243a2da03bbccaf14a1445b4fcbd457eefb384d29513cbb8829a9a"
+    },
+    {
+      "file": "custom-86x714-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvz2bwmiwrzw%2Fdcustom-86x714-accompaniment",
+      "bytes": 5395042,
+      "sha256": "8bcfd5bca3cc3a36f0339ba8a4590ce8e7ebfa484596168488f89348fcc19c94"
+    }
+  ]
+}

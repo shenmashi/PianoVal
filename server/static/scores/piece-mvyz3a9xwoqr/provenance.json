@@ -1,0 +1,54 @@
+{
+  "page": "https://scores.example.com/scores/piece-mvyz3a9xwoqr/practice",
+  "purpose": "User-requested additional audio/score test corpus",
+  "assets": [
+    {
+      "file": "custom-2112210.musicxml",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-musicxml",
+      "bytes": 516669,
+      "sha256": "7ba0a0ad76c15f47ce72b140ebc5c82a9261088cf9e0f1ac6e37df8d3de93333"
+    },
+    {
+      "file": "custom-2112210-left.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-left",
+      "bytes": 1261,
+      "sha256": "8e0ea42d249dbd247d78fb7160dd812d074368d43404cbd34d2fab0b6b700ebc"
+    },
+    {
+      "file": "custom-2112210-right.mid",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-right",
+      "bytes": 3812,
+      "sha256": "1da5f723a988f574477cae538b9780a3c5b38841e1d75a6cc01f3ab168eece35"
+    },
+    {
+      "file": "custom-2112210-accompaniment.mp3",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-accompaniment",
+      "bytes": 4511450,
+      "sha256": "c5dd441e4abb040b7824a498bb86206b2ce89bc8e7954f1075bc493aa857703a"
+    },
+    {
+      "file": "custom-2112210-jianpu.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-jianpu-fixed-svg",
+      "bytes": 405175,
+      "sha256": "08e0d16e5e09d9db78f58b4ac9ed96e8099c2124c2f5454d8025c20e6574188e"
+    },
+    {
+      "file": "custom-2112210-jianpu-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-jianpu-fixed-map",
+      "bytes": 24554,
+      "sha256": "57507d049412044e91586cb8c6d296e0fcc1bdb5f5c60097dfc82204fbbf369d"
+    },
+    {
+      "file": "custom-2112210-dual.svg",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-dual-fixed-svg",
+      "bytes": 837423,
+      "sha256": "c14884e3b03ffea9c07dc94a9feb24458ac6123668e2c0ac8e000e8f02f82cd8"
+    },
+    {
+      "file": "custom-2112210-dual-map.json",
+      "source": "https://scores.example.com/api/oss/asset?key=content%2Fpiece-mvyz3a9xwoqr%2Fdcustom-2112210-dual-fixed-map",
+      "bytes": 25299,
+      "sha256": "41ccdbf4e9280932438d837391918e051993490ee3ef5a807761af5368fff738"
+    }
+  ]
+}

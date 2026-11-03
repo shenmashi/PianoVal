@@ -1,0 +1,38 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Secrets and deployment-specific access records
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.cert/
+DEPLOY_ACCESS.md
+*credentials*.json
+*local-login*.json
+*.sqlite
+*.sqlite3
+
+# Local audio, model weights, reports and training output
+server/data/
+server/models/
+test-evidence/*
+server/test-evidence/*
+!test-evidence/.gitkeep
+!server/test-evidence/.gitkeep
+test-results/
+playwright-report/
+*.log
+*.pid
+
+# Reference pages and local editor configuration
+docs/reference/
+.idea/
+.vscode/

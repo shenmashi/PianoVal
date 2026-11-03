@@ -1,0 +1,39 @@
+.piano-key-guidance{padding:14px 18px;background:#edf3ff;border-top:1px solid #d3dffa;color:#244b91}
+.piano-guidance-heading{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.piano-guidance-heading>strong{font-size:13px;font-weight:600}
+.piano-ready-status{display:inline-flex;align-items:center;padding:5px 9px;background:#e1e7f0;color:#64748b;border-radius:5px;font-size:11px;font-weight:600;white-space:nowrap}
+.piano-ready-status[data-phase=ready]{background:#17685a;color:white}
+.piano-ready-status[data-phase=loading],.piano-ready-status[data-phase=listening],.piano-ready-status[data-phase=stopping]{background:#fff0d5;color:#875c15}
+.piano-ready-status[data-phase=error]{background:#ffe3de;color:#a43e32}
+.piano-ready-status[data-feedback=model-mismatch]{background:#fff0d5;color:#875c15}
+.piano-guidance-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.piano-attempt-feedback{margin-top:12px;padding:12px 14px;background:white;border:1px solid #d3dffa;border-radius:6px;font-size:12px}
+.piano-attempt-values{display:flex;gap:12px 24px;flex-wrap:wrap;margin-top:8px;color:#506580}
+.piano-attempt-feedback[data-state=model-mismatch]{border-color:#df9b55;background:#fff7ec;color:#875012}
+.piano-attempt-feedback[data-state=model-mismatch] p{color:#875012}
+.piano-attempt-feedback[data-state=wrong-key]{border-color:#d5a09b;background:#fff5f3;color:#963d34}
+.piano-attempt-feedback[data-state=passed]{border-color:#79b6a5;background:#f2fbf8;color:#17685a}
+.piano-target-number{color:#2454aa;font-size:16px;font-weight:700}
+.piano-key-guidance p{font-size:10px;line-height:1.8;color:#637eab;margin:9px 0 0}
+.piano-target-keys{display:flex;gap:8px;flex-wrap:wrap}
+.piano-target-chip{display:flex;align-items:center;gap:8px;padding:6px 9px;background:white;color:#2454aa;border:1px solid #b5c9f2;border-radius:6px;cursor:pointer}
+.piano-target-chip strong{font-size:13px}
+.piano-target-chip kbd{padding:2px 5px;border:1px solid #d2dbee;border-bottom-width:2px;border-radius:4px;background:#f4f7fd;font:11px ui-monospace,SFMono-Regular,Consolas,monospace;color:#526a95}
+.piano-target-chip small{color:#637eab;font-size:10px}
+.piano-key.target{background:#dbe8ff!important;border-color:#3b73dd;box-shadow:inset 0 0 0 2px #3b73dd,inset 0 -7px #3b73dd;z-index:1}
+.piano-key.sharp.target{background:#275bb5!important;border-color:#1d4a99;z-index:3}
+.piano-key.target.played{background:#57c2a8!important}
+.piano-key.target.pressed{background:#e3bc6e!important}
+.piano-key.target>span:not(.piano-key-target-hint){visibility:hidden}
+.piano-key .piano-key-target-hint{position:absolute;left:0;right:0;bottom:15px;display:flex;align-items:center;flex-direction:column;gap:4px;color:#2454aa;pointer-events:none;font-size:10px}
+.piano-key-target-hint b{font:700 25px/1 sans-serif}
+.piano-key-target-hint strong{font-size:10px;line-height:1.2;white-space:nowrap}
+.piano-key-target-hint .piano-key-tap{font-size:7px;line-height:1.2;white-space:nowrap;color:inherit;letter-spacing:-.3px}
+.piano-key-target-hint kbd{font:600 9px/1.3 ui-monospace,SFMono-Regular,Consolas,monospace}
+.piano-key.sharp .piano-key-target-hint{bottom:8px;color:white;gap:3px}
+.piano-key-target-hint b{font-size:17px;white-space:pre-line;text-align:center}
+.piano-key.sharp .piano-key-target-hint b{font-size:12px}
+.piano-key.sharp .piano-key-target-hint .piano-key-tap{writing-mode:vertical-rl}
+.piano-key.sharp .piano-key-target-hint strong{font-size:8px}
+.piano-key.sharp .piano-key-target-hint kbd{font-size:8px}
+@media(max-width:540px){.piano-key-guidance{padding:13px}.piano-guidance-heading{align-items:flex-start;flex-direction:column}}

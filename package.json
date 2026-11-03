@@ -1,0 +1,25 @@
+{
+  "name": "pianoval",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5180",
+    "dev:https": "PIANOVAL_HTTPS=1 vite --host 0.0.0.0 --port 5180",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4180",
+    "test": "node --experimental-strip-types --test tests/music.test.ts",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "vue": "3.5.44"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/node": "^22.20.5",
+    "@vitejs/plugin-vue": "6.0.10",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vue-tsc": "^3.1.0"
+  }
+}
